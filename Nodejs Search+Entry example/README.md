@@ -21,5 +21,8 @@ Open cli and configure dependencies
 ```
 
 ## Run 
-
+Try it in your cli:
+```
+~ cd /<path to derictory>/OxfordDictionariesAPI/Nodejs\ Search+Entry\ example 
 ~ node app.js
+```
