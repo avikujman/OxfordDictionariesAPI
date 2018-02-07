@@ -1,6 +1,6 @@
 # Nodejs Search+Entry example
 
-This is an example code demonstrating the asynchronous fetch of OUP API. Using Promises we fetch a list of words and then lookup details on the first from the list.
+This is an example code demonstrating the asynchronous fetch of OUP API. Using JavaScript Promises we fetch a list of words and then lookup details on the first from the list.
 
 
 ## Installation
@@ -16,13 +16,13 @@ Keys need to be placed in `config.js`
 ```
 Open cli and configure dependencies
 ```
-~ cd /<path to derictory>/OxfordDictionariesAPI/Nodejs\ Search+Entry\ example 
-~ npm install
+~$ cd /<path to derictory>/OxfordDictionariesAPI/Nodejs\ Search+Entry\ example 
+~$ npm install
 ```
 
 ## Run 
 Try it in your cli:
 ```
-~ cd /<path to derictory>/OxfordDictionariesAPI/Nodejs\ Search+Entry\ example 
-~ node app.js
+~$ cd /<path to derictory>/OxfordDictionariesAPI/Nodejs\ Search+Entry\ example 
+~$ node app.js
 ```
