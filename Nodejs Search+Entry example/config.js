@@ -1,7 +1,7 @@
 const ROOT_SETTINGS = {
     baseUrl: 'https://od-api.oxforddictionaries.com:443/api/v1/',
-    app_id: '<SET YOUR API KEY HERE>', //go here for more detail https://developer.oxforddictionaries.com/documentation/getting_started
-    app_key: '<SET YOUR API KEY HERE>'
+    app_id: '1185a5db'
+        app_key: '875757cd989aa789eb73da718d21f154'
 };
 
 const ENDPOINTS_SETTINGS = {
